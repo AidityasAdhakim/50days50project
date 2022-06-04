@@ -1,0 +1,117 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+p{
+    font-size: 25px;
+}
+
+.navbar{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.carousel-item{
+    height: 91.5vh;
+}
+
+#carousel1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item > h1{
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.carousel-item.active > .container{
+    color: white;
+    z-index: 1;
+}
+
+.overlay-image{
+    z-index: 0;
+}
+
+.container > p{
+    margin-top: -10px;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+    background-color: transparent;
+    border: 2px solid black;
+}
+
+@media(max-width:1366px){
+    #container-1{
+        margin-left: 150px;
+        margin-right: -150px;
+        width: 500px;
+    }
+}
+
+@media (max-width: 991px){
+    .overlay-image{
+        max-height: 265px;
+        max-width:265px;
+        position: absolute;
+        z-index: 0.05;
+    }
+    #overlay-image-1, #overlay-image-3{
+        left: unset;
+        right: 0;
+        top: 100px;
+    }
+    #overlay-image-2{
+        left: 25px;
+        top: 80px;
+    }
+    #overlay-image-4{
+        left: 25px;
+        top: 80px;
+    }
+    .container > h1 {
+        font-size: 36px;
+        max-width: fit-content;
+    }
+    .container > p{
+        font-size: 15px;
+        max-width: 265px;
+    }
+
+    #container-1, #container-3{
+        margin: 0;
+        position: absolute;
+        bottom: 125px;
+        width: fit-content;
+        left: 25px;
+    }
+    #container-2, #container-4{
+        margin: 0;
+        position: absolute;
+        bottom: 100px;
+        width: fit-content;
+        right: 0;
+    }
+    #container-4{
+        color: black;
+    }
+}
+
+.zakir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}

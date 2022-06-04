@@ -1,0 +1,493 @@
+nama_sekolah,npsn,bp,status,pd,guru,kecamatan,wilayah
+SMAN 78 JAKARTA,20101588,SMA,Negeri,1228,66,Palmerah,Kota Jakarta Barat
+SMAN 99 JAKARTA,20103256,SMA,Negeri,1044,60,Ciracas,Kota Jakarta Timur
+SMAN 70 JAKARTA,20102570,SMA,Negeri,1120,57,Kebayoran Baru,Kota Jakarta Selatan
+SMAN 36 JAKARTA,20103280,SMA,Negeri,932,54,Pulo Gadung,Kota Jakarta Timur
+SMAN 98 JAKARTA,20103257,SMA,Negeri,1039,52,Pasar Rebo,Kota Jakarta Timur
+SMAN 55 JAKARTA,20102575,SMA,Negeri,897,50,Pancoran,Kota Jakarta Selatan
+SMAN 68 JAKARTA,20100199,SMA,Negeri,896,49,Senen,Kota Jakarta Pusat
+SMAN 6 JAKARTA,20102574,SMA,Negeri,1007,49,Kebayoran Baru,Kota Jakarta Selatan
+SMAN 66 JAKARTA,20102571,SMA,Negeri,856,48,Cilandak,Kota Jakarta Selatan
+SMAN 91 JAKARTA,20103278,SMA,Negeri,708,46,Duren Sawit,Kota Jakarta Timur
+SMAN 75 JAKARTA,20100779,SMA,Negeri,782,44,Cilincing,Kota Jakarta Utara
+SMAN 72 JAKARTA,20100796,SMA,Negeri,798,43,Kelapa Gading,Kota Jakarta Utara
+SMAS PKP,20103183,SMA,Swasta,681,43,Ciracas,Kota Jakarta Timur
+SMAN 59 JAKARTA,20103308,SMA,Negeri,784,43,Duren Sawit,Kota Jakarta Timur
+SMAN 83 JAKARTA,20100781,SMA,Negeri,660,40,Cilincing,Kota Jakarta Utara
+SMAN 96 JAKARTA,20101583,SMA,Negeri,782,40,Cengkareng,Kota Jakarta Barat
+SMAN 18 JAKARTA,20100809,SMA,Negeri,775,39,Tanjung Priok,Kota Jakarta Utara
+SMAN 7 JAKARTA,20100200,SMA,Negeri,724,39,Tanah Abang,Kota Jakarta Pusat
+SMAS GONZAGA JAKARTA,20107299,SMA,Swasta,786,39,Pasar Minggu,Kota Jakarta Selatan
+SMAN 62 JAKARTA,20103306,SMA,Negeri,672,38,Kramat Jati,Kota Jakarta Timur
+SMAS BINA DHARMA JAKARTA,20103403,SMA,Swasta,441,36,Ciracas,Kota Jakarta Timur
+SMAN 12 JAKARTA,20103285,SMA,Negeri,671,35,Duren Sawit,Kota Jakarta Timur
+SMAN 79 JAKARTA,20107320,SMA,Negeri,700,33,Setia Budi,Kota Jakarta Selatan
+SMAS 2 YADIKA,20101630,SMA,Swasta,591,27,Kali Deres,Kota Jakarta Barat
+SMAS BAKTI IDHATA JAKARTA,20107280,SMA,Swasta,468,26,Cilandak,Kota Jakarta Selatan
+SMAS SUMBANGSIH JAKARTA,20107332,SMA,Swasta,339,25,Pasar Minggu,Kota Jakarta Selatan
+SMA Islam Al Azhar 19,69977033,SMA,Swasta,299,24,Ciracas,Kota Jakarta Timur
+SMA PERGURUAN RAKYAT 1 JAKARTA,20109524,SMA,Swasta,311,23,Jagakarsa,Kota Jakarta Selatan
+SMAS SANTO KRISTOFORUS 1,20101616,SMA,Swasta,191,18,Grogol Petamburan,Kota Jakarta Barat
+SMAS NURUL FALAH JAKARTA,20107387,SMA,Swasta,341,18,Cilincing,Kota Jakarta Utara
+SMAS TANJUNG PRIOK JAKARTA,20107395,SMA,Swasta,401,16,Koja,Kota Jakarta Utara
+SMAS TRAMPIL 2 JAKARTA,20107591,SMA,Swasta,104,16,Kramat Jati,Kota Jakarta Timur
+SMAS CITA BUANA,20107290,SPK SMA,Swasta,124,13,Jagakarsa,Kota Jakarta Selatan
+SMA PAH TSUNG,NP708533,SMA,Swasta,47,12,Cengkareng,Kota Jakarta Barat
+SMAS VIANNEY,20101618,SMA,Swasta,136,12,Cengkareng,Kota Jakarta Barat
+SMAS PGRI 12 JAKARTA,20100608,SMA,Swasta,120,11,Kelapa Gading,Kota Jakarta Utara
+SMAS KATOLIK DIAKONIA JAKARTA,20100631,SMA,Swasta,58,11,Penjaringan,Kota Jakarta Utara
+SMAS BINA NUSANTARA,20107283,SPK SMA,Swasta,385,11,Kebayoran Lama,Kota Jakarta Selatan
+SMAS SANTIKA,20103198,SMA,Swasta,90,10,Cipayung,Kota Jakarta Timur
+SMAS UNIVERSAL,20107251,SPK SMA,Swasta,157,10,Kemayoran,Kota Jakarta Pusat
+SMAS DARUNNAJAH,20107292,SMA,Swasta,318,9,Pesanggrahan,Kota Jakarta Selatan
+SMAS BUDAYA JAKARTA,20103218,SMA,Swasta,99,9,Duren Sawit,Kota Jakarta Timur
+SMAS KRISTEN SAMARIA KUDUS,20101313,SMA,Swasta,45,8,Kembangan,Kota Jakarta Barat
+SMA SAMPOERNA,69949830,SPK SMA,Swasta,73,7,Pancoran,Kota Jakarta Selatan
+SMAS PGRI 1 JAKARTA,20103169,SMA,Swasta,24,7,Duren Sawit,Kota Jakarta Timur
+SMAS NASIONAL NUSANTARA,20104434,SMA,Swasta,57,7,Cengkareng,Kota Jakarta Barat
+SMA Raffles Christian School Kelapa Gading,69939320,SPK SMA,Swasta,80,7,Kelapa Gading,Kota Jakarta Utara
+SMAS IMPIAN BUNDA,20104416,SMA,Swasta,51,6,Cengkareng,Kota Jakarta Barat
+SMAS EL SHADDAI INTERCONTINENTAL SCHOOL,69899284,SPK SMA,Swasta,6,6,Pesanggrahan,Kota Jakarta Selatan
+SMAS SUKSES ABADI,69973260,SMA,Swasta,41,4,Penjaringan,Kota Jakarta Utara
+SMAS CAKRA BUANA,20101331,SMA,Swasta,25,2,Kali Deres,Kota Jakarta Barat
+SMAS BOROBUDUR JAKARTA,20107285,SMA,Swasta,0,1,Pasar Minggu,Kota Jakarta Selatan
+SMAS ISLAM AL - JIHAD JAKARTA,20100505,SMA,Swasta,46,0,Johar Baru,Kota Jakarta Pusat
+SMAS 2 GALATIA,20101351,SMA,Swasta,0,0,Grogol Petamburan,Kota Jakarta Barat
+SMA JAGAKARSA,70006224,SMA,Swasta,0,0,Jagakarsa,Kota Jakarta Selatan
+SMAS PAH TSUNG,70008196,SMA,Swasta,0,0,Cengkareng,Kota Jakarta Barat
+SMAN 13 JAKARTA,20100806,SMA,Negeri,966,47,Koja,Kota Jakarta Utara
+SMAN 110 JAKARTA,20100802,SMA,Negeri,869,46,Koja,Kota Jakarta Utara
+SMAN 16 JAKARTA,20101625,SMA,Negeri,782,40,Palmerah,Kota Jakarta Barat
+SMAN 85 JAKARTA,20101586,SMA,Negeri,781,35,Kembangan,Kota Jakarta Barat
+SMAN 74 JAKARTA,20102569,SMA,Negeri,780,45,Kebayoran Lama,Kota Jakarta Selatan
+SMAN 56 JAKARTA,20101605,SMA,Negeri,701,38,Kali Deres,Kota Jakarta Barat
+SMAN 77 JAKARTA,20100201,SMA,Negeri,672,36,Cempaka Putih,Kota Jakarta Pusat
+SMAS KRISTEN 5 BPK PENABUR,20100601,SMA,Swasta,671,49,Kelapa Gading,Kota Jakarta Utara
+SMAS YAPPENDA,20107400,SMA,Swasta,600,27,Tanjung Priok,Kota Jakarta Utara
+SMAS KRISTEN 6 PENABUR,20110335,SMA,Swasta,579,41,Penjaringan,Kota Jakarta Utara
+SMAN 114 JAKARTA,20100804,SMA,Negeri,553,31,Cilincing,Kota Jakarta Utara
+SMAS PGRI 4 JAKARTA,20103182,SMA,Swasta,549,22,Cipayung,Kota Jakarta Timur
+SMAN 20 JAKARTA,20100218,SMA,Negeri,540,34,Sawah Besar,Kota Jakarta Pusat
+SMAS KRISTEN 7 BPK PENABUR JAKARTA,20103228,SMA,Swasta,519,39,Duren Sawit,Kota Jakarta Timur
+SMAS ISLAM AL-AZHAR 1 JAKARTA,20107304,SMA,Swasta,491,32,Kebayoran Baru,Kota Jakarta Selatan
+SMA JAKARTA INTERCULTURAL SCHOOL,69853555,SPK SMA,Swasta,485,52,Cilandak,Kota Jakarta Selatan
+SMAS MALAHAYATI,20103231,SMA,Swasta,443,14,Pasar Rebo,Kota Jakarta Timur
+SMAS ISLAM AS SYAFIIYAH 01 JAKARTA,20107279,SMA,Swasta,435,19,Tebet,Kota Jakarta Selatan
+SMA PRESTASI PRIMA,69989466,SMA,Swasta,390,8,Cipayung,Kota Jakarta Timur
+SMA CENDERAWASIH 1,20107288,SMA,Swasta,372,27,Cilandak,Kota Jakarta Selatan
+SMAS SANTO YOSEPH JAKARTA,20103196,SMA,Swasta,351,22,Cakung,Kota Jakarta Timur
+SMAS JAKARTA ISLAMIC SCHOOL,20112433,SMA,Swasta,332,14,Makasar,Kota Jakarta Timur
+SMAS BPS&amp;K I,20103240,SMA,Swasta,327,13,Duren Sawit,Kota Jakarta Timur
+SMAS MUHAMMADIYAH 1 JAKARTA,20100195,SMA,Swasta,316,24,Senen,Kota Jakarta Pusat
+SMAS BUDHAYA 2 ST AGUSTINUS,20103216,SMA,Swasta,312,17,Duren Sawit,Kota Jakarta Timur
+SMA ISLAM AL-AZHAR KELAPA GADING,20100600,SMA,Swasta,308,26,Kelapa Gading,Kota Jakarta Utara
+SMAS DIPONEGORO 2 JAKARTA,20103204,SMA,Swasta,280,22,Cakung,Kota Jakarta Timur
+SMA GANDHI MEMORIAL INTERCONTINENTAL SCHOOL,69758962,SPK SMA,Swasta,280,9,Kemayoran,Kota Jakarta Pusat
+SMAS PGRI 3 JAKARTA,20107326,SMA,Swasta,274,20,Cilandak,Kota Jakarta Selatan
+SMAS DHARMA KARYA JAKARTA,20107295,SMA,Swasta,266,22,Kebayoran Baru,Kota Jakarta Selatan
+SMAS NUSANTARA JAKARTA,20107388,SMA,Swasta,222,5,Cilincing,Kota Jakarta Utara
+SMAS CAWANG 1 BARU JAKARTA,20103431,SMA,Swasta,217,15,Jatinegara,Kota Jakarta Timur
+SMAS TUNAS MUDA,20104439,SPK SMA,Swasta,199,9,Kembangan,Kota Jakarta Barat
+SMAIT Buahati Islamic School,69967066,SMA,Swasta,179,18,Cipayung,Kota Jakarta Timur
+SMAS PERG CIKINI JAKARTA,20107325,SMA,Swasta,171,20,Pancoran,Kota Jakarta Selatan
+SMAS FATAHILLAH JAKARTA,20107297,SMA,Swasta,146,17,Pancoran,Kota Jakarta Selatan
+SMA Raffles Christian School Pondok Indah,69904250,SMA,Swasta,141,5,Kebayoran Lama,Kota Jakarta Selatan
+SMAS DARUL MAARIF JAKARTA,20107291,SMA,Swasta,125,11,Cilandak,Kota Jakarta Selatan
+SMAS YASPI JAKARTA,20100800,SMA,Swasta,124,7,Cilincing,Kota Jakarta Utara
+SMAS MUHAMMADIYAH 14 JAKARTA,20100184,SMA,Swasta,105,11,Tanah Abang,Kota Jakarta Pusat
+SMA BINA BANGSA SCHOOL,20104408,SPK SMA,Swasta,105,16,Kebon Jeruk,Kota Jakarta Barat
+SMAS MUTIARA 1 JAKARTA,20100606,SMA,Swasta,100,7,Tanjung Priok,Kota Jakarta Utara
+SMAS DHARMA PUTRA JAKARTA,20107373,SMA,Swasta,98,6,Tanjung Priok,Kota Jakarta Utara
+SMA NARADA,69754377,SPK SMA,Swasta,98,10,Cengkareng,Kota Jakarta Barat
+SMAS SANTO BELLARMINUS JAKARTA,20108507,SMA,Swasta,77,17,Menteng,Kota Jakarta Pusat
+SMAS CAHAYA KUDUS JAKARTA,20107371,SMA,Swasta,76,2,Penjaringan,Kota Jakarta Utara
+SMA AUSTRALIAN INDEPENDENT SCHOOL INDONESIA JAKARTA,69889089,SPK SMA,Swasta,60,10,Pasar Minggu,Kota Jakarta Selatan
+SMAS DIAN PERSADA JAKARTA,20103206,SMA,Swasta,58,9,Pulo Gadung,Kota Jakarta Timur
+SMAS PANGUDI RAHAYU,20103176,SMA,Swasta,54,7,Pasar Rebo,Kota Jakarta Timur
+SMAS ISLAM AL-KHOLIDIN JAKARTA,20107307,SMA,Swasta,53,12,Kebayoran Baru,Kota Jakarta Selatan
+SMAS AL HIKMAH JAKARTA,20103427,SMA,Swasta,48,8,Pulo Gadung,Kota Jakarta Timur
+SMAS PEMBANGUNAN 3 JATINEGARA,20103173,SMA,Swasta,41,0,Cakung,Kota Jakarta Timur
+SMA SINGAPORE INTERCULTURAL SCHOOL,69896714,SPK SMA,Swasta,41,1,Cilandak,Kota Jakarta Selatan
+SMAS MUHAMMADIYAH 24,20101325,SMA,Swasta,35,7,Grogol Petamburan,Kota Jakarta Barat
+SMAS VILLA MAS JAKARTA,20103187,SMA,Swasta,24,12,Pulo Gadung,Kota Jakarta Timur
+SMAS KRISTEN BERKAT JAKARTA,20103224,SMA,Swasta,7,0,Jatinegara,Kota Jakarta Timur
+SMAS KANISIUS JAKARTA,20100170,SMA,Swasta,762,42,Menteng,Kota Jakarta Pusat
+SMAS PASKALIS,20100173,SMA,Swasta,160,12,Kemayoran,Kota Jakarta Pusat
+SMAS PERGURUAN NASIONAL JAKARTA,20100174,SMA,Swasta,61,5,Kemayoran,Kota Jakarta Pusat
+SMAS ADVENT SALEMBA,20100175,SMA,Swasta,152,14,Senen,Kota Jakarta Pusat
+SMAS SANTO PAULUS JAKARTA,20100179,SMA,Swasta,71,7,Gambir,Kota Jakarta Pusat
+SMAS SUNDA KELAPA JAKARTA,20100180,SMA,Swasta,234,12,Menteng,Kota Jakarta Pusat
+SMAS TAMAN MADYA I JAKARTA,20100181,SMA,Swasta,566,19,Kemayoran,Kota Jakarta Pusat
+SMAS MUHAMMADIYAH 2 JAKARTA,20100182,SMA,Swasta,352,17,Kemayoran,Kota Jakarta Pusat
+SMAS MUHAMMADIYAH 16 JAKARTA,20100183,SMA,Swasta,190,12,Senen,Kota Jakarta Pusat
+SMAS KARTINI 1 JAKARTA,20100185,SMA,Swasta,194,13,Kemayoran,Kota Jakarta Pusat
+SMAS KRISTEN 2 BPK PENABUR,20100186,SMA,Swasta,345,28,Sawah Besar,Kota Jakarta Pusat
+SMAS KRISTEN 3 PENABUR JAKARTA,20100187,SMA,Swasta,494,43,Kemayoran,Kota Jakarta Pusat
+SMAS KRISTEN BETHEL JAKARTA,20100188,SMA,Swasta,49,10,Tanah Abang,Kota Jakarta Pusat
+SMAS KRISTEN KANAAN JAKARTA,20100189,SMA,Swasta,149,16,Kemayoran,Kota Jakarta Pusat
+SMAS KRISTEN KARUNIA JAKARTA,20100190,SMA,Swasta,125,11,Sawah Besar,Kota Jakarta Pusat
+SMAS KRISTEN KETAPANG 1 JAKARTA,20100191,SMA,Swasta,113,11,Gambir,Kota Jakarta Pusat
+SMAS  PERGURUAN KSATRYA,20100193,SMA,Swasta,501,34,Cempaka Putih,Kota Jakarta Pusat
+SMA MAHATMA GANDHI SCHOOL,20100194,SPK SMA,Swasta,192,21,Sawah Besar,Kota Jakarta Pusat
+SMAS TAMAN MADYA 5 JAKARTA,20100196,SMA,Swasta,97,11,Cempaka Putih,Kota Jakarta Pusat
+SMAS TARSISIUS 1 JAKARTA,20100197,SMA,Swasta,173,15,Gambir,Kota Jakarta Pusat
+SMAS SANTA THERESIA JAKARTA,20100198,SMA,Swasta,473,28,Menteng,Kota Jakarta Pusat
+SMAN 5 JAKARTA,20100210,SMA,Negeri,891,45,Kemayoran,Kota Jakarta Pusat
+SMAN 4 JAKARTA,20100211,SMA,Negeri,626,34,Gambir,Kota Jakarta Pusat
+SMAN 35 JAKARTA,20100212,SMA,Negeri,706,46,Tanah Abang,Kota Jakarta Pusat
+SMAS TRIWIBAWA JAKARTA,20100213,SMA,Swasta,216,7,Sawah Besar,Kota Jakarta Pusat
+SMAS YAPERMAS JAKARTA,20100214,SMA,Swasta,119,5,Menteng,Kota Jakarta Pusat
+SMAS YP IPPI PETOJO JAKARTA,20100215,SMA,Swasta,379,12,Gambir,Kota Jakarta Pusat
+SMAN 1 JAKARTA,20100216,SMA,Negeri,889,46,Sawah Besar,Kota Jakarta Pusat
+SMAN 10 JAKARTA,20100217,SMA,Negeri,553,34,Sawah Besar,Kota Jakarta Pusat
+SMAN 24 JAKARTA,20100219,SMA,Negeri,521,30,Tanah Abang,Kota Jakarta Pusat
+SMAN 25 JAKARTA,20100221,SMA,Negeri,560,32,Gambir,Kota Jakarta Pusat
+SMAN 27 JAKARTA,20100223,SMA,Negeri,782,40,Johar Baru,Kota Jakarta Pusat
+SMAN 30 JAKARTA,20100224,SMA,Negeri,893,47,Cempaka Putih,Kota Jakarta Pusat
+SMAS PSKD 3 JAKARTA,20100483,SMA,Swasta,51,10,Senen,Kota Jakarta Pusat
+SMAS AT TAQWA JAKARTA,20100484,SMA,Swasta,241,14,Sawah Besar,Kota Jakarta Pusat
+SMAS BUNDA MULIA JAKARTA,20100486,SMA,Swasta,296,16,Gambir,Kota Jakarta Pusat
+SMAS FRANSISKUS 1 JAKARTA,20100489,SMA,Swasta,60,9,Senen,Kota Jakarta Pusat
+SMAS PSKD 1 JAKARTA,20100490,SMA,Swasta,98,20,Senen,Kota Jakarta Pusat
+SMAS GANDHI ANCOL,20100599,SMA,Swasta,331,18,Pademangan,Kota Jakarta Utara
+SMAS KRISTEN YUSUF,20100603,SMA,Swasta,153,13,Penjaringan,Kota Jakarta Utara
+SMA MAHATMA GADING,20100604,SMA,Swasta,85,21,Kelapa Gading,Kota Jakarta Utara
+SMAS METHODIST JAKARTA,20100605,SMA,Swasta,231,15,Penjaringan,Kota Jakarta Utara
+SMAS PERMAI JAKARTA,20100607,SMA,Swasta,354,24,Penjaringan,Kota Jakarta Utara
+SMAS PUSAKA ABADI JAKARTA,20100610,SMA,Swasta,87,12,Penjaringan,Kota Jakarta Utara
+SMA SAINT NICHOLAS,20100612,SMA,Swasta,79,16,Penjaringan,Kota Jakarta Utara
+SMAS TARAKANITA 2,20100613,SMA,Swasta,351,25,Penjaringan,Kota Jakarta Utara
+SMAS FONS VITAE 2 JAKARTA,20100614,SMA,Swasta,174,18,Koja,Kota Jakarta Utara
+SMAS DON BOSCO 1 JAKARTA,20100616,SMA,Swasta,146,12,Kelapa Gading,Kota Jakarta Utara
+SMAS BUDI AGUNG,20100628,SMA,Swasta,281,17,Penjaringan,Kota Jakarta Utara
+SMAS BUNGA HATI BANGSA,20100629,SMA,Swasta,57,6,Penjaringan,Kota Jakarta Utara
+SMAS DHARMA BUDHI BHAKTI JAKARTA,20100630,SMA,Swasta,75,11,Tanjung Priok,Kota Jakarta Utara
+SMAS TUNAS GADING,20100632,SMA,Swasta,32,7,Kelapa Gading,Kota Jakarta Utara
+SMAS TUNAS KARYA JAKARTA,20100778,SMA,Swasta,9,4,Kelapa Gading,Kota Jakarta Utara
+SMAN 80 JAKARTA,20100780,SMA,Negeri,819,43,Tanjung Priok,Kota Jakarta Utara
+SMAN 92 JAKARTA,20100782,SMA,Negeri,835,41,Cilincing,Kota Jakarta Utara
+SMAN 73 JAKARTA,20100795,SMA,Negeri,699,37,Cilincing,Kota Jakarta Utara
+SMAN 52 JAKARTA,20100797,SMA,Negeri,892,49,Cilincing,Kota Jakarta Utara
+SMAS SANTO YAKOBUS JAKARTA,20100799,SMA,Swasta,399,32,Kelapa Gading,Kota Jakarta Utara
+SMAS YUSHA JAKARTA,20100801,SMA,Swasta,116,13,Koja,Kota Jakarta Utara
+SMAN 111 JAKARTA,20100803,SMA,Negeri,550,27,Penjaringan,Kota Jakarta Utara
+SMAN 115 JAKARTA,20100805,SMA,Negeri,579,33,Cilincing,Kota Jakarta Utara
+SMAN 15 JAKARTA,20100807,SMA,Negeri,670,38,Tanjung Priok,Kota Jakarta Utara
+SMAN 40 JAKARTA,20100810,SMA,Negeri,739,37,Pademangan,Kota Jakarta Utara
+SMAN 41 JAKARTA,20100811,SMA,Negeri,702,32,Tanjung Priok,Kota Jakarta Utara
+SMAN 45 JAKARTA,20100812,SMA,Negeri,885,48,Kelapa Gading,Kota Jakarta Utara
+SMAS 1 BARUNAWATI,20101173,SMA,Swasta,403,18,Palmerah,Kota Jakarta Barat
+SMAS REGINA PACIS,20101301,SMA,Swasta,219,20,Palmerah,Kota Jakarta Barat
+SMAS KRISTEN ALMASIH,20101304,SMA,Swasta,32,8,Grogol Petamburan,Kota Jakarta Barat
+SMAS 4 KRISTEN PENABUR,20101305,SMA,Swasta,384,31,Kebon Jeruk,Kota Jakarta Barat
+SMAS 1 KRISTEN BPK PENABUR,20101306,SMA,Swasta,934,59,Grogol Petamburan,Kota Jakarta Barat
+SMAS 2 KEMURNIAN,20101307,SMA,Swasta,221,24,Kebon Jeruk,Kota Jakarta Barat
+SMAS KATOLIK RICCI,20101311,SMA,Swasta,222,25,Taman Sari,Kota Jakarta Barat
+SMA LAMAHOLOT,20101314,SMA,Swasta,60,5,Cengkareng,Kota Jakarta Barat
+SMAS PROVIDENTIA,20101318,SMA,Swasta,126,15,Kebon Jeruk,Kota Jakarta Barat
+SMAS PELITA 2,20101322,SMA,Swasta,160,14,Kebon Jeruk,Kota Jakarta Barat
+SMAS PADINDI,20101323,SMA,Swasta,72,4,Kali Deres,Kota Jakarta Barat
+SMAS NOTRE DAME,20101324,SMA,Swasta,230,22,Kembangan,Kota Jakarta Barat
+SMAS MUHAMMADIYAH 13 JAKARTA,20101326,SMA,Swasta,161,13,Grogol Petamburan,Kota Jakarta Barat
+SMAS 3 KALAM KUDUS,20101327,SMA,Swasta,157,13,Kebon Jeruk,Kota Jakarta Barat
+SMAS CENGKARENG 1,20101329,SMA,Swasta,375,20,Cengkareng,Kota Jakarta Barat
+SMAS CANDRA NAYA,20101330,SMA,Swasta,114,10,Tambora,Kota Jakarta Barat
+SMAS BUNDA HATI KUDUS,20101332,SMA,Swasta,288,24,Grogol Petamburan,Kota Jakarta Barat
+SMAS BUDI MURNI 2,20101334,SMA,Swasta,205,11,Kebon Jeruk,Kota Jakarta Barat
+SMAS BHINEKA TUNGGAL IKA,20101337,SMA,Swasta,83,9,Tambora,Kota Jakarta Barat
+SMAS BAPTIS CENGKARENG INDAH,20101339,SMA,Swasta,51,8,Cengkareng,Kota Jakarta Barat
+SMAS AL HUDA CENGKARENG,20101340,SMA,Swasta,898,35,Cengkareng,Kota Jakarta Barat
+SMAS DAMAI,20101342,SMA,Swasta,59,13,Tambora,Kota Jakarta Barat
+SMAS DHAMMASAVANA,20101343,SMA,Swasta,43,5,Tambora,Kota Jakarta Barat
+SMAS KRISTEN PANCARAN BERKAT,20101346,SMA,Swasta,86,7,Grogol Petamburan,Kota Jakarta Barat
+SMAS ISLAM TAMBORA,20101348,SMA,Swasta,195,11,Tambora,Kota Jakarta Barat
+SMAS IP YAKIN,20101349,SMA,Swasta,151,14,Cengkareng,Kota Jakarta Barat
+SMAS HARAPAN JAYA,20101350,SMA,Swasta,152,12,Cengkareng,Kota Jakarta Barat
+SMAS 3 GALATIA,20101352,SMA,Swasta,67,8,Kali Deres,Kota Jakarta Barat
+SMAS FATAHILLAH,20101353,SMA,Swasta,195,11,Grogol Petamburan,Kota Jakarta Barat
+SMAS FAJRUL ISLAM,20101354,SMA,Swasta,260,16,Kali Deres,Kota Jakarta Barat
+SMAS SAN MARINO,20101467,SMA,Swasta,107,11,Kali Deres,Kota Jakarta Barat
+SMAN 95 JAKARTA,20101584,SMA,Negeri,1004,51,Kali Deres,Kota Jakarta Barat
+SMAN 94 JAKARTA,20101585,SMA,Negeri,672,36,Kali Deres,Kota Jakarta Barat
+SMAN 84 JAKARTA,20101587,SMA,Negeri,781,46,Kali Deres,Kota Jakarta Barat
+SMAN 65 JAKARTA,20101589,SMA,Negeri,632,34,Kebon Jeruk,Kota Jakarta Barat
+SMAN 57 JAKARTA,20101604,SMA,Negeri,671,33,Kebon Jeruk,Kota Jakarta Barat
+SMAS TUNAS HARAPAN,20101606,SMA,Swasta,223,20,Grogol Petamburan,Kota Jakarta Barat
+SMAS TRI RATNA,20101608,SMA,Swasta,82,12,Taman Sari,Kota Jakarta Barat
+SMAS  TARSISIUS II,20101610,SMA,Swasta,183,15,Kebon Jeruk,Kota Jakarta Barat
+SMAS SENTOSA,20101611,SMA,Swasta,18,5,Taman Sari,Kota Jakarta Barat
+SMAS 2 SANTO LEO,20101613,SMA,Swasta,188,15,Cengkareng,Kota Jakarta Barat
+SMAS SANTO LEO,20101614,SMA,Swasta,48,6,Taman Sari,Kota Jakarta Barat
+SMAS 2 SANTO KRISTOFORUS,20101615,SMA,Swasta,454,31,Cengkareng,Kota Jakarta Barat
+SMAS TUNAS INDONESIA,20101617,SMA,Swasta,45,9,Kali Deres,Kota Jakarta Barat
+SMAS 1 YADIKA,20101619,SMA,Swasta,305,18,Grogol Petamburan,Kota Jakarta Barat
+SMAN 33 JAKARTA,20101620,SMA,Negeri,787,41,Cengkareng,Kota Jakarta Barat
+SMAN 23 JAKARTA,20101621,SMA,Negeri,704,40,Grogol Petamburan,Kota Jakarta Barat
+SMAN 2 JAKARTA,20101622,SMA,Negeri,744,36,Taman Sari,Kota Jakarta Barat
+SMAN 19 JAKARTA,20101623,SMA,Negeri,634,29,Tambora,Kota Jakarta Barat
+SMAN 17 JAKARTA,20101624,SMA,Negeri,737,35,Taman Sari,Kota Jakarta Barat
+SMAN 112 JAKARTA,20101626,SMA,Negeri,823,41,Kembangan,Kota Jakarta Barat
+SMAN 101 JAKARTA,20101627,SMA,Negeri,855,45,Kembangan,Kota Jakarta Barat
+SMAS YP BDN,20101628,SMA,Swasta,170,13,Grogol Petamburan,Kota Jakarta Barat
+SMAS 5 YADIKA,20101629,SMA,Swasta,576,32,Kembangan,Kota Jakarta Barat
+SMAN 47 JAKARTA,20102193,SMA,Negeri,896,57,Kebayoran Lama,Kota Jakarta Selatan
+SMAN 46 JAKARTA,20102210,SMA,Negeri,1004,46,Kebayoran Baru,Kota Jakarta Selatan
+SMAN 43 JAKARTA,20102211,SMA,Negeri,669,33,Setia Budi,Kota Jakarta Selatan
+SMAN 38 JAKARTA,20102212,SMA,Negeri,782,41,Jagakarsa,Kota Jakarta Selatan
+SMAN 37 JAKARTA,20102213,SMA,Negeri,775,51,Tebet,Kota Jakarta Selatan
+SMAN 34 JAKARTA,20102214,SMA,Negeri,898,53,Cilandak,Kota Jakarta Selatan
+SMAN 32 JAKARTA,20102215,SMA,Negeri,894,52,Kebayoran Lama,Kota Jakarta Selatan
+SMAN 3 JAKARTA,20102216,SMA,Negeri,1005,53,Setia Budi,Kota Jakarta Selatan
+SMAN 29 JAKARTA,20102217,SMA,Negeri,784,46,Kebayoran Lama,Kota Jakarta Selatan
+SMAN 26 JAKARTA,20102218,SMA,Negeri,671,33,Tebet,Kota Jakarta Selatan
+SMAN 109 JAKARTA,20102219,SMA,Negeri,781,46,Jagakarsa,Kota Jakarta Selatan
+SMAN 108 JAKARTA,20102230,SMA,Negeri,558,35,Pesanggrahan,Kota Jakarta Selatan
+SMAK TIRTAMARTA - BPK PENABUR,20102231,SMA,Swasta,136,15,Kebayoran Lama,Kota Jakarta Selatan
+SMAN 97 JAKARTA,20102562,SMA,Negeri,1006,54,Jagakarsa,Kota Jakarta Selatan
+SMAN 90 JAKARTA,20102563,SMA,Negeri,1007,61,Pesanggrahan,Kota Jakarta Selatan
+SMAN 87 JAKARTA,20102564,SMA,Negeri,708,35,Pesanggrahan,Kota Jakarta Selatan
+SMAN 86 JAKARTA,20102565,SMA,Negeri,671,39,Pesanggrahan,Kota Jakarta Selatan
+SMAN 82 JAKARTA,20102566,SMA,Negeri,671,41,Kebayoran Baru,Kota Jakarta Selatan
+SMAN 8 JAKARTA,20102568,SMA,Negeri,1080,59,Tebet,Kota Jakarta Selatan
+SMAN 63 JAKARTA,20102572,SMA,Negeri,672,32,Pesanggrahan,Kota Jakarta Selatan
+SMAN 60 JAKARTA,20102573,SMA,Negeri,812,46,Mampang Prapatan,Kota Jakarta Selatan
+SMAN RAGUNAN JAKARTA,20102576,SMA,Negeri,394,20,Pasar Minggu,Kota Jakarta Selatan
+SMAN 49 JAKARTA,20102592,SMA,Negeri,671,40,Jagakarsa,Kota Jakarta Selatan
+SMAS PERGURUAN RAKYAT 2 JAKARTA,20103166,SMA,Swasta,516,27,Duren Sawit,Kota Jakarta Timur
+SMAS PERGURUAN RAKYAT 3 JAKARTA,20103167,SMA,Swasta,288,23,Duren Sawit,Kota Jakarta Timur
+SMAS PGRI 10 JAKARTA,20103170,SMA,Swasta,31,8,Cakung,Kota Jakarta Timur
+SMAS PGRI 24 JAKARTA,20103171,SMA,Swasta,187,18,Cipayung,Kota Jakarta Timur
+SMAS PELITA TIGA NO 3 JAKARTA,20103174,SMA,Swasta,224,17,Pulo Gadung,Kota Jakarta Timur
+SMAS NURUL HUDA JAKARTA,20103178,SMA,Swasta,17,2,Cakung,Kota Jakarta Timur
+SMAS MUHAMMADIYAH 4 JAKARTA,20103179,SMA,Swasta,560,23,Kramat Jati,Kota Jakarta Timur
+SMAS MUHAMMADIYAH 23 JAKARTA,20103180,SMA,Swasta,494,29,Duren Sawit,Kota Jakarta Timur
+SMAS MUHAMMADIYAH 12 JAKARTA,20103181,SMA,Swasta,338,21,Matraman,Kota Jakarta Timur
+SMAS WIJAYA KUSUMA,20103185,SMA,Swasta,347,21,Ciracas,Kota Jakarta Timur
+SMAS WIDYA MANGGALA JAKARTA,20103186,SMA,Swasta,259,22,Ciracas,Kota Jakarta Timur
+SMAS USWATUN HASANAH JAKARTA,20103189,SMA,Swasta,245,27,Makasar,Kota Jakarta Timur
+SMAS TUNAS MARKATIN JAKARTA,20103190,SMA,Swasta,98,12,Pulo Gadung,Kota Jakarta Timur
+SMAS TRISOKO JAKARTA,20103191,SMA,Swasta,128,10,Kramat Jati,Kota Jakarta Timur
+SMA TELADAN 1 JAKARTA,20103192,SMA,Swasta,113,13,Ciracas,Kota Jakarta Timur
+SMAS ST ALEXIUS JAKARTA,20103194,SMA,Swasta,31,8,Duren Sawit,Kota Jakarta Timur
+SMAS SAPTA KHARISMA JAKARTA,20103195,SMA,Swasta,42,6,Cakung,Kota Jakarta Timur
+SMAS ST ANTONIUS JAKARTA,20103197,SMA,Swasta,256,18,Jatinegara,Kota Jakarta Timur
+SMAS PUSAKA 1 JAKARTA,20103200,SMA,Swasta,660,37,Duren Sawit,Kota Jakarta Timur
+SMAS MUHAMMADIYAH 11 JAKARTA,20103202,SMA,Swasta,313,26,Pulo Gadung,Kota Jakarta Timur
+SMAS DON BOSCO 2 JAKARTA,20103203,SMA,Swasta,315,25,Pulo Gadung,Kota Jakarta Timur
+SMAS DIPONEGORO 1 JAKARTA,20103205,SMA,Swasta,569,38,Pulo Gadung,Kota Jakarta Timur
+SMAS DEWI SARTIKA YBW JAKARTA,20103208,SMA,Swasta,79,6,Jatinegara,Kota Jakarta Timur
+SMAS CORPATARIN JAKARTA,20103210,SMA,Swasta,177,13,Duren Sawit,Kota Jakarta Timur
+SMAS CAHAYA SAKTI JAKARTA,20103212,SMA,Swasta,177,16,Jatinegara,Kota Jakarta Timur
+SMAS BUDI MULIA UTAMA JAKARTA,20103213,SMA,Swasta,212,15,Duren Sawit,Kota Jakarta Timur
+SMAS BUDHI WARMAN 2,20103214,SMA,Swasta,655,41,Pasar Rebo,Kota Jakarta Timur
+SMAS BUDHI WARMAN 1,20103215,SMA,Swasta,467,26,Kramat Jati,Kota Jakarta Timur
+SMAS FONS VITAE 1 JAKARTA,20103219,SMA,Swasta,462,37,Matraman,Kota Jakarta Timur
+SMAS FRANSISKUS 2 JAKARTA,20103220,SMA,Swasta,177,12,Pulo Gadung,Kota Jakarta Timur
+SMAS LABSCHOOL JAKARTA,20103223,SMA,Swasta,744,52,Pulo Gadung,Kota Jakarta Timur
+SMA KAPIN,20103227,SMA,Swasta,48,9,Duren Sawit,Kota Jakarta Timur
+SMAS ISLAM PB SOEDIRMAN,20103230,SMA,Swasta,581,44,Pasar Rebo,Kota Jakarta Timur
+SMAS IGN SLAMET RIYADI,20103238,SMA,Swasta,259,21,Pasar Rebo,Kota Jakarta Timur
+SMAS YAKE JAKARTA,20103241,SMA,Swasta,224,19,Jatinegara,Kota Jakarta Timur
+SMAN 93 JAKARTA,20103258,SMA,Negeri,782,45,Kramat Jati,Kota Jakarta Timur
+SMAN 9 JAKARTA,20103279,SMA,Negeri,783,45,Makasar,Kota Jakarta Timur
+SMAN 31 JAKARTA,20103281,SMA,Negeri,1145,56,Matraman,Kota Jakarta Timur
+SMAN 22 JAKARTA,20103282,SMA,Negeri,923,49,Matraman,Kota Jakarta Timur
+SMAN 21 JAKARTA,20103283,SMA,Negeri,819,46,Pulo Gadung,Kota Jakarta Timur
+SMAN 14 JAKARTA,20103284,SMA,Negeri,783,47,Kramat Jati,Kota Jakarta Timur
+SMAN 113 JAKARTA,20103286,SMA,Negeri,1080,56,Cipayung,Kota Jakarta Timur
+SMAN 11 JAKARTA,20103287,SMA,Negeri,671,39,Cakung,Kota Jakarta Timur
+SMAN 107 JAKARTA,20103288,SMA,Negeri,742,41,Cakung,Kota Jakarta Timur
+SMAN 106 JAKARTA,20103289,SMA,Negeri,783,46,Pasar Rebo,Kota Jakarta Timur
+SMAN 105 JAKARTA,20103290,SMA,Negeri,783,41,Ciracas,Kota Jakarta Timur
+SMAN 104 JAKARTA,20103291,SMA,Negeri,891,45,Pasar Rebo,Kota Jakarta Timur
+SMAN 103 JAKARTA,20103292,SMA,Negeri,747,43,Duren Sawit,Kota Jakarta Timur
+SMAN 102 JAKARTA,20103293,SMA,Negeri,780,42,Cakung,Kota Jakarta Timur
+SMAN 100 JAKARTA,20103294,SMA,Negeri,670,36,Jatinegara,Kota Jakarta Timur
+SMAS YP IPPI JAKARTA,20103295,SMA,Swasta,260,13,Cakung,Kota Jakarta Timur
+SMAN 39 JAKARTA,20103296,SMA,Negeri,1156,68,Pasar Rebo,Kota Jakarta Timur
+SMAN 42 JAKARTA,20103297,SMA,Negeri,895,48,Makasar,Kota Jakarta Timur
+SMAN 44 JAKARTA,20103298,SMA,Negeri,780,51,Duren Sawit,Kota Jakarta Timur
+SMAN 89 JAKARTA,20103299,SMA,Negeri,743,46,Cakung,Kota Jakarta Timur
+SMAN 88 JAKARTA,20103300,SMA,Negeri,595,36,Pasar Rebo,Kota Jakarta Timur
+SMAN 81 JAKARTA,20103301,SMA,Negeri,891,50,Makasar,Kota Jakarta Timur
+SMAN 76 JAKARTA,20103302,SMA,Negeri,663,32,Cakung,Kota Jakarta Timur
+SMAN 71 JAKARTA,20103303,SMA,Negeri,896,49,Duren Sawit,Kota Jakarta Timur
+SMAN 67 JAKARTA,20103304,SMA,Negeri,896,53,Makasar,Kota Jakarta Timur
+SMAN 64 JAKARTA,20103305,SMA,Negeri,785,43,Cipayung,Kota Jakarta Timur
+SMAN 61 JAKARTA,20103307,SMA,Negeri,744,46,Duren Sawit,Kota Jakarta Timur
+SMAN 58 JAKARTA,20103309,SMA,Negeri,896,49,Ciracas,Kota Jakarta Timur
+SMAN 54 JAKARTA,20103310,SMA,Negeri,894,57,Jatinegara,Kota Jakarta Timur
+SMAN 53 JAKARTA,20103311,SMA,Negeri,783,43,Jatinegara,Kota Jakarta Timur
+SMAN 51 JAKARTA,20103312,SMA,Negeri,893,48,Kramat Jati,Kota Jakarta Timur
+SMAN 50 JAKARTA,20103313,SMA,Negeri,783,46,Jatinegara,Kota Jakarta Timur
+SMAN 48 JAKARTA,20103314,SMA,Negeri,896,46,Makasar,Kota Jakarta Timur
+SMAS BINA PANGUDI LUHUR JAKARTA,20103316,SMA,Swasta,242,15,Matraman,Kota Jakarta Timur
+SMAS ANGKASA 2 H PERDANAKUSUMA,20103425,SMA,Swasta,866,40,Makasar,Kota Jakarta Timur
+SMAS ANGKASA 1 H PERDANAKUSUMA,20103426,SMA,Swasta,578,36,Makasar,Kota Jakarta Timur
+SMAS AL GHURABAA JAKARTA,20103428,SMA,Swasta,92,9,Pulo Gadung,Kota Jakarta Timur
+SMAS ADI LUHUR JAKARTA,20103429,SMA,Swasta,225,22,Kramat Jati,Kota Jakarta Timur
+SMAS PSKD II JAKARTA,20103430,SMA,Swasta,20,9,Matraman,Kota Jakarta Timur
+SMAS AL KAMAL,20104405,SMA,Swasta,238,17,Kebon Jeruk,Kota Jakarta Barat
+SMAS BUKIT SION,20104407,SPK SMA,Swasta,224,16,Kembangan,Kota Jakarta Barat
+SMAS CAHAYA FADILAH,20104409,SMA,Swasta,388,27,Cengkareng,Kota Jakarta Barat
+SMAS  GLOBAL SEVILLA PURI INDAH,20104410,SPK SMA,Swasta,49,9,Kembangan,Kota Jakarta Barat
+SMAS DHARMA JAYA,20104412,SMA,Swasta,75,7,Grogol Petamburan,Kota Jakarta Barat
+SMAS DIAN HARAPAN,20104413,SMA,Swasta,493,36,Kali Deres,Kota Jakarta Barat
+SMAS DIAN KASIH,20104414,SMA,Swasta,65,11,Kali Deres,Kota Jakarta Barat
+SMAS JOSUA,20104417,SMA,Swasta,37,0,Palmerah,Kota Jakarta Barat
+SMAS KRISTEN TIARA KASIH,20104419,SMA,Swasta,180,14,Kali Deres,Kota Jakarta Barat
+SMAS KATOLIK ABDI SISWA,20104421,SMA,Swasta,122,15,Kebon Jeruk,Kota Jakarta Barat
+SMAS KATHOLIK BINTANG KEJORA,20104422,SMA,Swasta,92,14,Cengkareng,Kota Jakarta Barat
+SMAK IPEKA INTEGRATED CHRISTIAN SCHOOL,20104423,SPK SMA,Swasta,191,20,Kembangan,Kota Jakarta Barat
+SMAS KRISTEN IPEKA TOMANG,20104424,SMA,Swasta,301,28,Kebon Jeruk,Kota Jakarta Barat
+SMAS KRISTEN IMANUEL,20104425,SMA,Swasta,80,9,Grogol Petamburan,Kota Jakarta Barat
+SMAS 2 KRISTEN KALAM KUDUS,20104426,SMA,Swasta,162,12,Cengkareng,Kota Jakarta Barat
+SMAS PETRA,20104430,SMA,Swasta,14,4,Kembangan,Kota Jakarta Barat
+SMAS KATOLIK SANG TIMUR,20104432,SMA,Swasta,465,35,Kebon Jeruk,Kota Jakarta Barat
+SMAS MUHAMMADIYAH 15,20104433,SMA,Swasta,464,20,Palmerah,Kota Jakarta Barat
+SMAS PELITA IV,20104436,SMA,Swasta,46,10,Tambora,Kota Jakarta Barat
+SMAS SUMPAH PEMUDA,20104438,SMA,Swasta,275,11,Kembangan,Kota Jakarta Barat
+SMAN 69 JAKARTA,20107185,SMA,Negeri,540,35,Kepulauan Seribu Utara,Kab. Kepulauan Seribu
+SMAS AL FALAH,20107187,SMA,Swasta,28,2,Cipayung,Kota Jakarta Timur
+SMAS IT AL HALIMIYAH JAKARTA,20107191,SMA,Swasta,222,15,Duren Sawit,Kota Jakarta Timur
+SMAS KATOLIK NUSA MELATI,20107193,SMA,Swasta,28,1,Cipayung,Kota Jakarta Timur
+SMAS NAHDLATUL WATHAN,20107194,SMA,Swasta,94,7,Cakung,Kota Jakarta Timur
+SMAS PRATAMA,20107199,SMA,Swasta,28,3,Ciracas,Kota Jakarta Timur
+SMA ACS JAKARTA,20107232,SPK SMA,Swasta,195,14,Cipayung,Kota Jakarta Timur
+SMAS BUDI MULIA JAKARTA,20107249,SMA,Swasta,570,32,Sawah Besar,Kota Jakarta Pusat
+SMA Perkumpulan Mandiri,20107250,SMA,Swasta,39,15,Menteng,Kota Jakarta Pusat
+SMAS AL CHASANAH,20107269,SMA,Swasta,212,14,Grogol Petamburan,Kota Jakarta Barat
+SMAS 17 AGUSTUS 45 JAKARTA,20107274,SMA,Swasta,364,21,Tebet,Kota Jakarta Selatan
+SMAS 28 OKTOBER 1928,20107275,SMA,Swasta,66,14,Mampang Prapatan,Kota Jakarta Selatan
+SMAS AL AZHAR SYIFA BUDI,20107276,SMA,Swasta,53,14,Mampang Prapatan,Kota Jakarta Selatan
+SMAS AL IZHAR JAKARTA,20107277,SMA,Swasta,452,46,Cilandak,Kota Jakarta Selatan
+SMAS ASISI JAKARTA,20107278,SMA,Swasta,141,18,Tebet,Kota Jakarta Selatan
+SMAS BAKTI MULYA 400,20107281,SMA,Swasta,159,18,Kebayoran Lama,Kota Jakarta Selatan
+SMA AL-KAUTSAR,20107284,SMA,Swasta,22,2,Kebayoran Baru,Kota Jakarta Selatan
+SMA BUNDA KANDUNG JAKARTA,20107287,SMA,Swasta,255,18,Pasar Minggu,Kota Jakarta Selatan
+SMA CHARITAS,20107289,SMA,Swasta,258,20,Cilandak,Kota Jakarta Selatan
+SMAS DEWI SARTIKA,20107294,SMA,Swasta,167,17,Tebet,Kota Jakarta Selatan
+SMAS GITA KIRTTI 3 JAKARTA,20107298,SMA,Swasta,124,12,Kebayoran Baru,Kota Jakarta Selatan
+SMAS HANG TUAH 1 JAKARTA,20107300,SMA,Swasta,566,36,Kebayoran Lama,Kota Jakarta Selatan
+SMAS HARNASTO INSTITUT JAKARTA,20107301,SMA,Swasta,11,4,Kebayoran Lama,Kota Jakarta Selatan
+SMAS IS AVICENA,20107302,SMA,Swasta,176,16,Jagakarsa,Kota Jakarta Selatan
+SMAS ISLAM HARAPAN IBU,20107303,SMA,Swasta,90,11,Kebayoran Lama,Kota Jakarta Selatan
+SMA ISLAM AL-AZHAR 2 JAKARTA,20107305,SMA,Swasta,285,26,Pasar Minggu,Kota Jakarta Selatan
+SMAS ISLAM AL-AZHAR 3 JAKARTA,20107306,SMA,Swasta,495,34,Kebayoran Baru,Kota Jakarta Selatan
+SMAS KARTIKA X-1,20107308,SMA,Swasta,647,31,Pesanggrahan,Kota Jakarta Selatan
+SMAS KARTIKA VIII-1 JAKARTA,20107309,SMA,Swasta,416,21,Jagakarsa,Kota Jakarta Selatan
+SMAS KELUARGA WIDURI JAKARTA,20107310,SMA,Swasta,148,15,Cilandak,Kota Jakarta Selatan
+SMA KEMALA BHAYANGKARI 1,20107311,SMA,Swasta,507,22,Pasar Minggu,Kota Jakarta Selatan
+SMAS KHARISMAWITA JAKARTA,20107312,SMA,Swasta,76,7,Jagakarsa,Kota Jakarta Selatan
+SMA LABSCHOOL KEBAYORAN,20107313,SMA,Swasta,826,46,Kebayoran Baru,Kota Jakarta Selatan
+SMA MUHAMMADIYAH 3 JAKARTA,20107314,SMA,Swasta,606,39,Kebayoran Baru,Kota Jakarta Selatan
+SMAS MUHAMMADIYAH 18 JAKARTA,20107315,SMA,Swasta,311,26,Kebayoran Lama,Kota Jakarta Selatan
+SMAS MUHAMMADIYAH 5 JAKARTA,20107317,SMA,Swasta,366,20,Tebet,Kota Jakarta Selatan
+SMAS MUTTAQIEN JAKARTA,20107318,SMA,Swasta,89,12,Tebet,Kota Jakarta Selatan
+SMAN 28 JAKARTA,20107319,SMA,Negeri,784,45,Pasar Minggu,Kota Jakarta Selatan
+SMAS PANGUDI LUHUR JAKARTA,20107322,SMA,Swasta,238,19,Kebayoran Baru,Kota Jakarta Selatan
+SMAS PATTIMURA JAKARTA,20107323,SMA,Swasta,64,6,Jagakarsa,Kota Jakarta Selatan
+SMAS PSKD 4 JAKARTA,20107327,SMA,Swasta,65,12,Kebayoran Baru,Kota Jakarta Selatan
+SMAS PURNAMA JAKARTA,20107328,SMA,Swasta,43,9,Kebayoran Baru,Kota Jakarta Selatan
+SMAS SERUNI DON BOSCO,20107330,SMA,Swasta,54,10,Cilandak,Kota Jakarta Selatan
+SMAS SULUH JAKARTA,20107331,SMA,Swasta,733,46,Pasar Minggu,Kota Jakarta Selatan
+SMA TARAKANITA 1 JAKARTA,20107334,SMA,Swasta,261,24,Kebayoran Baru,Kota Jakarta Selatan
+SMAS TRIGUNA JAKARTA,20107336,SMA,Swasta,267,20,Kebayoran Baru,Kota Jakarta Selatan
+SMAS YAPERJASA,20107338,SMA,Swasta,186,14,Jagakarsa,Kota Jakarta Selatan
+SMAS YASPORBI 1 JAKARTA,20107340,SMA,Swasta,178,22,Tebet,Kota Jakarta Selatan
+SMAS YMIK 2 JAKARTA,20107342,SMA,Swasta,332,21,Tebet,Kota Jakarta Selatan
+SMAS AL JIHAD JAKARTA,20107367,SMA,Swasta,176,11,Tanjung Priok,Kota Jakarta Utara
+SMAS AL KHAIRIYAH JAKARTA,20107368,SMA,Swasta,302,18,Koja,Kota Jakarta Utara
+SMAS AL MUHAJIRIN JAKARTA,20107369,SMA,Swasta,134,9,Koja,Kota Jakarta Utara
+SMA BINA TUNAS BANGSA,20107370,SPK SMA,Swasta,121,6,Penjaringan,Kota Jakarta Utara
+SMAS CHANDRA KUSUMA JAKARTA,20107372,SMA,Swasta,21,7,Penjaringan,Kota Jakarta Utara
+SMA DARMA SATRIA PERSADA,20107374,SMA,Swasta,119,10,Penjaringan,Kota Jakarta Utara
+SMAS DHARMA SUCI JAKARTA,20107375,SMA,Swasta,200,16,Penjaringan,Kota Jakarta Utara
+SMAS GIDEON JAKARTA,20107376,SMA,Swasta,57,4,Tanjung Priok,Kota Jakarta Utara
+SMAS GITA KIRTI 2,20107377,SMA,Swasta,77,7,Tanjung Priok,Kota Jakarta Utara
+SMAS HARAPAN KASIH JAKARTA,20107378,SMA,Swasta,114,7,Penjaringan,Kota Jakarta Utara
+SMAS JUBILEE,20107380,SMA,Swasta,292,29,Tanjung Priok,Kota Jakarta Utara
+SMAS KRISTEN IPEKA PLUIT,20107382,SMA,Swasta,229,20,Penjaringan,Kota Jakarta Utara
+SMAS KRISTEN IPEKA SUNTER,20107383,SMA,Swasta,360,32,Tanjung Priok,Kota Jakarta Utara
+SMAS KRISTEN TUNAS BANGSA,20107384,SMA,Swasta,156,15,Tanjung Priok,Kota Jakarta Utara
+SMAS LAPHAT PLUS,20107385,SMA,Swasta,35,6,Koja,Kota Jakarta Utara
+SMAS PERMATA INDAH JAKARTA,20107389,SMA,Swasta,142,12,Penjaringan,Kota Jakarta Utara
+SMAS SAINT PETER,20107390,SMA,Swasta,51,17,Kelapa Gading,Kota Jakarta Utara
+SMAS SANTO LUKAS 1 JAKARTA,20107391,SMA,Swasta,161,11,Tanjung Priok,Kota Jakarta Utara
+SMAS STELLA MARIS JAKARTA,20107393,SMA,Swasta,71,9,Penjaringan,Kota Jakarta Utara
+SMAS ST MARIA DELLA STRADA,20107394,SMA,Swasta,130,13,Pademangan,Kota Jakarta Utara
+SMAS WIJAYA JAKARTA,20107397,SMA,Swasta,119,11,Tanjung Priok,Kota Jakarta Utara
+SMAS WIJAYA KUSUMA JAKARTA,20107398,SMA,Swasta,133,13,Penjaringan,Kota Jakarta Utara
+SMAS YANIIC JAKARTA,20107399,SMA,Swasta,103,5,Cilincing,Kota Jakarta Utara
+SMAS GLOBAL ISLAMIC SCHOOL,20107589,SMA,Swasta,291,27,Kramat Jati,Kota Jakarta Timur
+SMAS SANTA URSULA,20108383,SMA,Swasta,704,41,Sawah Besar,Kota Jakarta Pusat
+SMAS ADVENT 1 JAKARTA,20108498,SMA,Swasta,102,14,Senen,Kota Jakarta Pusat
+SMAS DWISAKA JAKARTA,20108499,SMA,Swasta,31,13,Menteng,Kota Jakarta Pusat
+SMAS HATI SUCI,20108501,SMA,Swasta,27,9,Tanah Abang,Kota Jakarta Pusat
+SMAS ISLAM SAID NA UM JAKARTA,20108502,SMA,Swasta,216,22,Tanah Abang,Kota Jakarta Pusat
+SMAS MUTIARA BANGSA 3,20109062,SMA,Swasta,121,19,Grogol Petamburan,Kota Jakarta Barat
+SMAS MARIE JOSEPH,20109180,SMA,Swasta,142,18,Kelapa Gading,Kota Jakarta Utara
+SMAS KASIH KARUNIA,20109326,SMA,Swasta,36,5,Cengkareng,Kota Jakarta Barat
+SMAS KRISTEN IPEKA PURI INDAH,20109467,SMA,Swasta,447,27,Kembangan,Kota Jakarta Barat
+SMAS ISLAM AL-MARUF,20109491,SMA,Swasta,259,24,Ciracas,Kota Jakarta Timur
+SMAS HIGH SCOPE,20109513,SPK SMA,Swasta,228,15,Cilandak,Kota Jakarta Selatan
+SMAS INTERNATIONAL ISLAMIC HIGH SCHOOL (IIHS),20109516,SMA,Swasta,178,14,Setia Budi,Kota Jakarta Selatan
+SMA SIS KELAPA GADING,20109560,SMA,Swasta,113,13,Kelapa Gading,Kota Jakarta Utara
+SMA SIS PIK,20109561,SMA,Swasta,77,8,Penjaringan,Kota Jakarta Utara
+SMAN UNGGULAN M.H. THAMRIN,20109933,SMA,Negeri,264,26,Cipayung,Kota Jakarta Timur
+SMAS CINTA KASIH TZU CHI,20109971,SMA,Swasta,288,22,Cengkareng,Kota Jakarta Barat
+SMAS PELITA KASIH,20110265,SMA,Swasta,141,9,Cengkareng,Kota Jakarta Barat
+SMAS CHARTAR BUANA,20112282,SMA,Swasta,466,29,Ciracas,Kota Jakarta Timur
+SMA  GLOBAL SEVILLA PULOMAS,20112284,SPK SMA,Swasta,105,17,Pulo Gadung,Kota Jakarta Timur
+SMAS PLUS KHADIJAH,20112406,SMA,Swasta,77,6,Cilandak,Kota Jakarta Selatan
+SMAS SINAR DHARMA,20112435,SMA,Swasta,132,12,Tambora,Kota Jakarta Barat
+SMAS CITRA KASIH,20112438,SMA,Swasta,325,24,Kali Deres,Kota Jakarta Barat
+SMA BINA BANGSA SCHOOL PANTAI INDAH KAPUK,20112462,SPK SMA,Swasta,298,18,Penjaringan,Kota Jakarta Utara
+SMAS K CALVIN,20112503,SMA,Swasta,166,17,Kemayoran,Kota Jakarta Pusat
+SMAK PENABUR KELAPA GADING,20177804,SPK SMA,Swasta,247,21,Kelapa Gading,Kota Jakarta Utara
+SMAS KRISTEN 8 PENABUR,20177805,SPK SMA,Swasta,167,15,Grogol Petamburan,Kota Jakarta Barat
+SMA TARUNA PERSADA,20177806,SMA,Swasta,19,1,Pasar Rebo,Kota Jakarta Timur
+SMAS SAINT JOHNS SCHOOL,20177837,SMA,Swasta,70,13,Kembangan,Kota Jakarta Barat
+SMAS LENTERA INDONESIA,20177916,SMA,Swasta,50,5,Kebayoran Lama,Kota Jakarta Selatan
+SMA PELANGI KASIH,69755458,SMA,Swasta,167,26,Penjaringan,Kota Jakarta Utara
+SMAS KANAAN GLOBAL SCHOOL,69757184,SPK SMA,Swasta,79,5,Kali Deres,Kota Jakarta Barat
+SMAS BINA KUSUMA MULIA,69759048,SMA,Swasta,68,7,Kali Deres,Kota Jakarta Barat
+SMAS SPRINGFIELD,69774557,SPK SMA,Swasta,213,4,Kembangan,Kota Jakarta Barat
+SMA KATOLIK LIA STEPHANIE,69816348,SMA,Swasta,102,11,Kali Deres,Kota Jakarta Barat
+SMA KRISTEN KASIH KEMULIAAN,69829193,SMA,Swasta,401,25,Kali Deres,Kota Jakarta Barat
+SMA NORTH JAKARTA INTERCULTURAL SCHOOL,69856892,SPK SMA,Swasta,15,1,Kelapa Gading,Kota Jakarta Utara
+SMA WESTIN,69873573,SMA,Swasta,66,5,Penjaringan,Kota Jakarta Utara
+SMA Pelita Harapan Kemang Village,69874086,SPK SMA,Swasta,66,7,Mampang Prapatan,Kota Jakarta Selatan
+SMA SAINT PETER SCHOOL,69879021,SPK SMA,Swasta,40,7,Kelapa Gading,Kota Jakarta Utara
+SMA GARUDA CENDEKIA,69883506,SMA,Swasta,215,26,Mampang Prapatan,Kota Jakarta Selatan
+SMA NATIONALHIGH JAKARTA SCHOOL,69883577,SMA,Swasta,81,3,Kembangan,Kota Jakarta Barat
+SMA BUNDA MULIA  SCHOOL,69888992,SPK SMA,Swasta,174,14,Pademangan,Kota Jakarta Utara
+SMA MAHATMA GADING INTERCULTURAL SCHOOL,69889105,SPK SMA,Swasta,66,8,Kelapa Gading,Kota Jakarta Utara
+SMA MENTARI INTERCULTURAL SCHOOL JAKARTA,69917278,SPK SMA,Swasta,217,10,Kebayoran Baru,Kota Jakarta Selatan
+SMA ACG SCHOOL JAKARTA,69921926,SPK SMA,Swasta,49,3,Pasar Minggu,Kota Jakarta Selatan
+SMA Raffles Christian School Kebon Jeruk,69923322,SPK SMA,Swasta,39,11,Kembangan,Kota Jakarta Barat
+SMA D Royal Moroco Integrative Islamic School,69930247,SPK SMA,Swasta,14,7,Kebayoran Baru,Kota Jakarta Selatan
+SMA KAIROS GRACIA,69931693,SMA,Swasta,146,9,Kali Deres,Kota Jakarta Barat
+SMA ISLAM AL JABR,69935208,SMA,Swasta,67,12,Cilandak,Kota Jakarta Selatan
+SMA PERGURUAN ADVENT XV,69948476,SMA,Swasta,211,17,Ciracas,Kota Jakarta Timur
+SMA HIGHFIELD,69948835,SMA,Swasta,74,15,Duren Sawit,Kota Jakarta Timur
+SMA LENTERA KASIH,69948873,SMA,Swasta,44,3,Tanjung Priok,Kota Jakarta Utara
+SMA EMIISc Jakarta,69955414,SMA,Swasta,113,21,Kramat Jati,Kota Jakarta Timur
+SMA TZU CHI,69961163,SPK SMA,Swasta,291,24,Penjaringan,Kota Jakarta Utara
+SMA KASIH IMMANUEL,69961538,SMA,Swasta,58,4,Kali Deres,Kota Jakarta Barat
+SMA BINA MAJU BANGSA,69965395,SMA,Swasta,9,3,Tanjung Priok,Kota Jakarta Utara
+SMA Mentari Grand Surya,69965766,SMA,Swasta,82,7,Kali Deres,Kota Jakarta Barat
+SMAS Kristen Tunas Bangsa,69966984,SMA,Swasta,67,10,Kebon Jeruk,Kota Jakarta Barat
+SMA JAC,69968321,SMA,Swasta,89,15,Kelapa Gading,Kota Jakarta Utara
+SMA GLOBAL MANDIRI,69972246,SMA,Swasta,70,16,Cakung,Kota Jakarta Timur
+SMA Jakarta Taipei School,69975652,SPK SMA,Swasta,49,4,Kelapa Gading,Kota Jakarta Utara
+SMA BEACON ACADEMY,69977407,SMA,Swasta,67,6,Kelapa Gading,Kota Jakarta Utara
+SMA Kasih Bagi Bangsa,69980323,SMA,Swasta,56,3,Cengkareng,Kota Jakarta Barat
+SMA CIKAL AMRI,69981381,SMA,Swasta,150,31,Cipayung,Kota Jakarta Timur
+SMA KRISTEN TUNAS BANGSA,69983889,SMA,Swasta,50,11,Cakung,Kota Jakarta Timur
+SMA ICHTHUS,69983983,SMA,Swasta,55,14,Cilandak,Kota Jakarta Selatan
+SMA MAHABODHI VIDYA,69989073,SMA,Swasta,80,8,Kali Deres,Kota Jakarta Barat
+SMA MAKARIOS,69993191,SMA,Swasta,67,16,Kembangan,Kota Jakarta Barat
+SMA HERITAGE SCHOOL JAKARTA,70003010,SMA,Swasta,18,9,Kebayoran Lama,Kota Jakarta Selatan
+SMA 2 PERGURUAN CIKINI,70004534,SMA,Swasta,78,18,Jagakarsa,Kota Jakarta Selatan
+SMA ISLAM TERPADU ALMAKA,NP933833,SMA,Swasta,85,12,Kali Deres,Kota Jakarta Barat
